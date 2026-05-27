@@ -28,7 +28,7 @@
 - Long-term collaborations
 - Interesting bot & web app ideas
 
-**Want to work together?** → Message me on **Telegram → (@NiruDev](https://t.me/NiruDev)**
+**Want to work together?** → Message me on **Telegram → [@NiruDev](https://t.me/NiruDev)**
 
 ---
 
