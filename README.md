@@ -17,9 +17,10 @@
 ---
 
 ### 🚀 What I Do
-- **Custom Websites** (React, Next.js, Tailwind, Node.js, etc.)
-- **Telegram Bots** (AI bots, automation, payment bots, etc.)
+- **Custom Websites** (React, Next.js, Tailwind, Node.js, HTML, CSS, etc.)
+- **Telegram Bots** (File Store bots, automation, Ai bots, etc.)
 - **Web Applications** & Freelance Projects
+- **Frontend & Web Design** 
 - **Backend & API Development**
 
 ### 💼 Currently Open For
@@ -36,7 +37,7 @@
 
 ### 📫 Connect With Me
 - Telegram → [@NiruDev](https://t.me/NiruDev)
-- Channel → [t.me/NiruDevOfficial](https://t.me/NiruDevOfficial)
+- Channel → [@NiruDevOfficial](https://t.me/NiruDevOfficial)
 
 ---
 
