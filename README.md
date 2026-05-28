@@ -3,7 +3,7 @@
   <h3>Freelance Full-Stack Developer & Bot Developer</h3>
 
   <p>
-    I build modern websites, powerful Telegram bots, and custom web solutions for clients.
+    I build modern websites, Powerful Telegram bots, and custom Website & Web solutions for clients.
   </p>
 
   <a href="https://t.me/NiruDev"><img src="https://img.shields.io/badge/Telegram-@NiruDev-229ED9?logo=telegram&logoColor=white" alt="Telegram"></a>
@@ -18,12 +18,12 @@
 
 ### 🚀 What I Do
 - **Custom Websites** (React, Next.js, Tailwind, Node.js, HTML, CSS, etc.)
-- **Telegram Bots** (File Store bots, automation, Ai bots, etc.)
+- **Telegram Bots** (File Store bots, Auto Filter bot, Automation, Ai bots, etc.)
 - **Web Applications** & Freelance Projects
 - **Frontend & Web Design** 
 - **Backend & API Development**
 
-### 💼 Currently Open For
+### 💼 Currently Open For Work 
 - Freelance development projects
 - Long-term collaborations
 - Interesting bot & web app ideas
